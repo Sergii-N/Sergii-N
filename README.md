@@ -2,7 +2,7 @@
 
 - <p>Outcome-oriented IT Business Analyst with extensive expertise in capturing, prioritizing, and documenting requirements, creating process flowcharts and diagrams, analyzing complex data, managing risks, identifying trends, and developing innovative strategies. Proficient in translating business needs into technical specifications.</p>
 
-- <p>Highly skilled in capturing, prioritizing, and documenting various requirements. Able to translate intricate business needs into actionable IT strategies, thereby improving system integration and workflow efficiency.</p>
+- <p>Highly skilled in capturing, prioritizing, and documenting various requirements. Able to translate intricate business challenges into actionable IT strategies, thereby improving system integration and workflow efficiency.</p>
 
 - <p>Diligent and deadline-focused, with a strong ability to deliver accurate results within planned budgets.</p>
 
