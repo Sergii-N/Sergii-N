@@ -15,9 +15,6 @@
 - <p>Committed to ongoing professional development to stay aligned with the latest industry standards and best practices in the fintech and e-commerce domains.</p>
 
 
-<h2>::</h2>
-<h2>::</h2>
-
 <h2>Connect with me:</h2>
 <b>Sergii Novytskyi | LinkedIn:</b>
 <p>https://www.linkedin.com/in/sergiinovytskyi<p><a href="https://www.linkedin.com/in/sergiinovytskyi">
