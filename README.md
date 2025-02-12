@@ -17,14 +17,6 @@
 
 <h2>::</h2>
 <h2>::</h2>
-- <b>...</b>
-- <i>777</i>
- - []()
- - []()
- - []()
- - []()
- - []()
- - []()
 
 <h2>Connect with me:</h2>
 <b>Sergii Novytskyi | LinkedIn:</b>
